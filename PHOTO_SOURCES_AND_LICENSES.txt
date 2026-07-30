@@ -1,0 +1,34 @@
+AJAYNXT PHOTO ASSETS — SOURCES & LICENSES
+
+These files are real photographs, not website screenshots.
+All final images were cropped, resized and lightly color-adjusted for portfolio use.
+
+1) ajaynxt-diamond
+Source title: Restaurant intérieur.jpg
+Photographer: AquaFleuri
+Source page: https://commons.wikimedia.org/wiki/File:Restaurant_int%C3%A9rieur.jpg
+License: CC BY 3.0
+Changes: crop, resize, contrast/color adjustment, subtle vignette
+
+2) ajaynxt-rajmahal
+Source title: Mysore Palace with Gardens.jpg
+Photographer: Bikashrd
+Source page: https://commons.wikimedia.org/wiki/File:Mysore_Palace_with_Gardens.jpg
+License: CC BY-SA 4.0
+Changes: crop, resize, contrast/color adjustment, subtle vignette
+
+3) ajaynxt-demos
+Source title: Laptop on a desk (Unsplash).jpg
+Photographer: Aleksi Tappura
+Source page: https://commons.wikimedia.org/wiki/File:Laptop_on_a_desk_(Unsplash).jpg
+License: CC0 1.0
+Changes: crop, resize, contrast/color adjustment, subtle vignette
+
+4) ajaynxt-movetogo
+Source title: DFC 1640 — nighttime city street with delivery rider
+Photographer: PattayaPatrol
+Source page: https://commons.wikimedia.org/wiki/File:DFC_1640_A_nighttime_city_street_with_traffic_and_shops_lit_up_a_delivery_rider_in_an_orange_jacket_sitting_on_a_parked_scooter_with_a_green_delivery_box.jpg
+License: CC BY-SA 4.0
+Changes: crop, resize, contrast/color adjustment, subtle vignette
+
+For attribution-required images, keep this file with your project or add the credits to your website credits page.
