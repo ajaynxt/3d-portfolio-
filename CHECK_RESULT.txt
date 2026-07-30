@@ -1,0 +1,19 @@
+AJAYNXT 3D PORTFOLIO CHECK RESULT
+
+Confirmed problems in the uploaded ZIP:
+1. .github/workflows/deploy-pages.yml was missing.
+2. GitHub Pages therefore served raw Vite/TSX source instead of the compiled dist folder.
+3. Raw /src/main.tsx cannot run directly in a production browser, causing the black screen.
+
+Fixes included in this folder:
+- GitHub Pages Actions workflow added.
+- public/CNAME retained for 3d.ajaynxt.com.
+- WebGL failure fallback added.
+- 15-second loading safety timeout added.
+- Better 3D model download error handling added.
+- Original 3D hero and AJAY NXT details retained.
+
+Upload instruction:
+Upload EVERYTHING inside this folder to the ROOT of the GitHub repository.
+Do not upload the outer folder itself.
+Then select Settings > Pages > Source: GitHub Actions.
